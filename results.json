@@ -1,0 +1,32 @@
+{
+  "n": 4000,
+  "sources": 4,
+  "ica_corr": [
+    0.9997,
+    1.0,
+    0.9993,
+    1.0
+  ],
+  "ica_snr_db": [
+    27.41,
+    45.54,
+    27.95,
+    13.26
+  ],
+  "pca_corr": [
+    0.2935,
+    0.8355,
+    0.7995,
+    0.2011
+  ],
+  "mean_abs_corr": 0.9997,
+  "pca_mean_abs_corr": 0.5324,
+  "whitened_cov_max": 1.8178969440896253e-10,
+  "orthogonality_gap": 2.220446049250313e-16,
+  "converged": [
+    true,
+    true,
+    true,
+    true
+  ]
+}

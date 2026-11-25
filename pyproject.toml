@@ -1,0 +1,9 @@
+[project]
+name = "ica-numpy"
+version = "0.1.0"
+description = "FastICA in NumPy: whitening, a tanh contrast and deflation, scored against PCA on mixed synthetic sources"
+requires-python = ">=3.9"
+dependencies = ["numpy", "matplotlib"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
